@@ -1,0 +1,2 @@
+# pracCode
+WorkGeneralCode, LeetCodePractice
